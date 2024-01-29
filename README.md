@@ -11,6 +11,25 @@
         <li>Entertainment </li>
         <li> Data Transfer</li>
     </ul>
+    <h2> Advantages and Disadvantages of Internet</h2>
+    <table>
+        <tr>
+            <td><h3>Advantages</h3></td>
+            <td><h3>Disadvantages</h3></td>
+        </tr>
+        <tr>
+            <td><h4>Global connections through virtual communications</h4></td>
+            <td><h4>Loss of personal information</h4></td>
+        </tr>
+        <tr>
+            <td><h4>E-Commerce</h4></td>
+            <td><h4>Spread of fake news</h4></td>
+        </tr>
+        <tr>
+            <td><h4>Online Education</h4></td>
+            <td><h4>Internet addiction and time wastage</h></td>
+        </tr>
+    </table>
     
 </body>
 </html>
