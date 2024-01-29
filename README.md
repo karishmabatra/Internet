@@ -14,8 +14,8 @@
     <h2> Advantages and Disadvantages of Internet</h2>
     <table>
         <tr>
-            <td><h3>Advantages</h3></td>
-            <td><h3>Disadvantages</h3></td>
+            <td><h3><b>Advantages</b></h3></td>
+            <td><h3><b>Disadvantages</b></h3></td>
         </tr>
         <tr>
             <td><h4>Global connections through virtual communications</h4></td>
