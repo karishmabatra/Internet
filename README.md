@@ -30,6 +30,9 @@
             <td><h4>Internet addiction and time wastage</h></td>
         </tr>
     </table>
+    <ul>
+        <li>Internet</li>
+    </ul>
     
 </body>
 </html>
